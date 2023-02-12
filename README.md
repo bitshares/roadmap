@@ -59,27 +59,34 @@ The source code of this repository is licensed under the MIT License.
 
 We use GitHub as our primary project management tool. We organize our tasks in 3 categories:
 
-    in progress
-    planned
-    implemented
+    Work in Progress
+    Planned
+    Implemented Features
 
-We do our best to keep the community informed what the status is of a specific task.
+View the full list of tasks that we're implementing on GitHub:
 
-    Work in progress
+[Work in Progress](https://github.com/bitshares/bitshares-core/milestones?state=open)
 
-Tasks that we're implementing. View the full list of tasks in progress on GitHub.
+View the full list of tasks in progress on GitHub:
 
+[Planned](https://github.com/bitshares/bitshares-core/milestones)
 
-Tasks we've queued up to implement next. View the full list of tasks in progress on GitHub.
+View the full list of implemented features on GitHub:
 
-    Implemented features
+[Implemented Features](https://github.com/bitshares/bitshares-core/milestones?state=closed)
 
-Recently completed tasks. View the full list of implemented tasks on GitHub.
+For requesting a new feature please use the GitHub feature request:
 
-    Request a feature
+[Request a Feature](https://github.com/bitshares/bitshares-core/issues/new?assignees=&labels=&template=feature_request.md)
 
 Do you have an idea for how to improve [BitShares Group](https://BitSharesGroup.org); We'd love to collaborate with you!
 
-    Join our telegram
-    Create an issue on GitHub
-    Reach out to us on Twitter
+[Join our telegram development group](https://t.me/BitSharesDEV)
+[Create an issue on GitHub](https://github.com/bitshares/bitshares-core/issues)
+[Reach out to us on Twitter](https://twitter.com/BitSharesGroup)
+
+GitHub Agile Development Team:
+
+<a href="https://github.com/bitshares/bitshares-core/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=bitshares/bitshares-core" />
+</a>
