@@ -1,6 +1,6 @@
 # Official Roadmap Declaration for *BitShares Blockchain*
 
-As formal *BitShares Blockchain* core token shareholders we are responsible to one another for maintaining integrity among our culture and core values around *BitShares Blockchain* hence we had formed a group of *BitShares Blockchain* developers and believers; a great team of visionaries and developers developing the project using official GitHub page [BitShares](https://github.com/bitshares) while addressing project's features and functions over main official website [BitShares.GitHub.io](https://bitshares.github.io) and addressing the vision and mission of the *BitShares Group* at group website [Bitshares Group](https://BitSharesGroup.org) in order to develop and maintain this great project and it's continuous products and innovations.
+As formal *BitShares Blockchain* core token shareholders we are responsible to one another for maintaining integrity among our culture and core values around *BitShares Blockchain* hence we had formed a group of *BitShares Blockchain* developers and believers; a great team of visionaries and developers developing the project using official GitHub page [BitShares](https://github.com/bitshares) while addressing project's features and functions over main official website [BitShares.GitHub.io](https://bitshares.github.io) and addressing the vision and mission of the *BitShares Group* at group website [BitShares Group](https://BitSharesGroup.org) in order to develop and maintain this great project and it's continuous products and innovations.
 
 *BitShares Group* was formed as an independent organization acting in the best interests of *BitShares Blockchain*. We address *BitShares Blockchain* as a decentralized “Blockchain As Organization” (BAO); a financial innovation in which users incorporate with Blockchain in order to produce a secure and reliable decentralized financial enterprise and FinTech ecosystem.
 
@@ -31,7 +31,7 @@ Resources: We value maintaining and allocating scarce resources and support to c
 
 *BitShares Group* isn't just the only community behind the development of BitShares as we must remember our community is global, containing people from many languages, regions, and cultures.
 
-*BitShares Blockchain* is always evolving, so [Bitshares Group](https://BitSharesGroup.org) will too. That's why the site has a simple design system & modular structure. We make iterative changes as we learn more about how people use the group site and what the community wants from it.
+*BitShares Blockchain* is always evolving, so [BitShares Group](https://BitSharesGroup.org) will too. That's why the site has a simple design system & modular structure. We make iterative changes as we learn more about how people use the group site and what the community wants from it.
 
 ## *BitShares Group* contributions and resources:
 
@@ -53,7 +53,7 @@ https://github.com/bitshares/bitshares-ui-style-guide
 
 3) We welcome feedback on both the reference wallet and the style guide. Remember, *BitShares Group* is for the community, by the community.
 
-Ever since the launch of [Bitshares Group](https://BitSharesGroup.org), we strive to be transparent about how we operate. This is one of our core values because we believe transparency is crucial to *BitShares Blockchain* success.
+Ever since the launch of [BitShares Group](https://BitSharesGroup.org), we strive to be transparent about how we operate. This is one of our core values because we believe transparency is crucial to *BitShares Blockchain* success.
 
 The source code of this repository is licensed under the MIT License.
 
@@ -78,7 +78,7 @@ Recently completed tasks. View the full list of implemented tasks on GitHub.
 
     Request a feature
 
-Do you have an idea for how to improve [Bitshares Group](https://BitSharesGroup.org); We'd love to collaborate with you!
+Do you have an idea for how to improve [BitShares Group](https://BitSharesGroup.org); We'd love to collaborate with you!
 
     Join our telegram
     Create an issue on GitHub
