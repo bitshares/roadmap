@@ -33,7 +33,7 @@ Resources: We value maintaining and allocating scarce resources and support to c
 
 *BitShares Blockchain* is always evolving, so [BitShares Group](https://BitSharesGroup.org) will too. That's why the site has a simple design system & modular structure. We make iterative changes as we learn more about how people use the group site and what the community wants from it.
 
-## *BitShares Group* contributions and resources:
+## *BitShares Group* contributions and resources
 
 1) Main website BitShares.github.io hosted at GitHub:
 
@@ -79,10 +79,13 @@ For requesting a new feature please use the GitHub feature request:
 
 [Request a Feature](https://github.com/bitshares/bitshares-core/issues/new?assignees=&labels=&template=feature_request.md)
 
+
 Do you have an idea for how to improve [BitShares Group](https://BitSharesGroup.org); We'd love to collaborate with you!
 
 [Join our telegram development group](https://t.me/BitSharesDEV)
+
 [Create an issue on GitHub](https://github.com/bitshares/bitshares-core/issues)
+
 [Reach out to us on Twitter](https://twitter.com/BitSharesGroup)
 
 GitHub Agile Development Team:
