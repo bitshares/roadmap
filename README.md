@@ -2,7 +2,7 @@
 
 As formal *BitShares Blockchain* core token shareholders we are responsible to one another for maintaining integrity among our culture and core values around *BitShares Blockchain* hence we had formed a group of *BitShares Blockchain* developers and believers; a great team of visionaries and developers developing the project using official GitHub page [BitShares](https://github.com/bitshares) while addressing project's features and functions over main official website [BitShares.GitHub.io](https://bitshares.github.io) and addressing the vision and mission of the *BitShares Group* at group website [BitShares Group](https://BitSharesGroup.org) in order to develop and maintain this great project and it's continuous products and innovations.
 
-*BitShares Group* was formed as an independent organization acting in the best interests of *BitShares Blockchain*. We address *BitShares Blockchain* as a decentralized “Blockchain As Organization” (BAO); a financial innovation in which users incorporate with Blockchain in order to produce a secure and reliable decentralized financial enterprise and FinTech ecosystem.
+*BitShares Group* was formed as an independent organization acting in the best interests of *BitShares Blockchain*. We address *BitShares Blockchain* as a decentralized “Blockchain as Organization” (BaO); a financial innovation in which users incorporate with Blockchain in order to produce a secure and reliable decentralized financial enterprise and FinTech ecosystem.
 
 ## *BitShares Group* Vision and Mission
 
